@@ -1,1 +1,1 @@
-# Codtech-task2
+Hey... I've designed a simple grade calculator in python. Here i have created a menu driven option for performing the actions. I've created a specific function for each of the opertion that is to be performed and calculated the average and the grade.
